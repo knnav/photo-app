@@ -17,7 +17,10 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'sass-rails', '~> 5.0'
+gem 'jquery-rails'
 gem 'sendgrid-ruby'
+gem 'stripe'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # See https://github.com/rails/execjs#readme for more supported runtimes
