@@ -20,6 +20,9 @@ gem 'sass-rails', '~> 5.0'
 gem 'jquery-rails'
 gem 'sendgrid-ruby'
 gem 'stripe'
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
